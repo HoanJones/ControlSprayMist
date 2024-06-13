@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PA0 Pin=HD1-2
+Removed Pin From Net: NetName=PA0 Pin=HD2-1
+Removed Pin From Net: NetName=NetDS1_3 Pin=HD2-2
+Removed Member From Class: ClassName=Project2SCH Member=HD1
+Removed Member From Class: ClassName=Project2SCH Member=HD2
+Change Component Designator: OldDesignator=JDC NewDesignator=JDC1
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP7
+Added Component: Designator=JP1(CON2)
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Component: Designator=JP6(CON2)
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA0 Pin=JP1-2
+Added Pin To Net: NetName=PA0 Pin=JP6-1
+Added Pin To Net: NetName=NetDS1_3 Pin=JP6-2
+Change Net Name : Old Net Name=NetJP5_2 New Net Name=NetJP7_2
+Change Net Name : Old Net Name=NetJP5_3 New Net Name=NetJP7_3
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=R1-5
+Added Net: Name=NetJP1_1
+Added Member To Class: ClassName=Project2SCH Member=Component JP6 JP2
+Added Member To Class: ClassName=Project2SCH Member=Component JP7 JP6

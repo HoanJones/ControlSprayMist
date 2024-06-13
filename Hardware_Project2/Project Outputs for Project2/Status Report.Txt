@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Project2.PrjPcb]
+   Generated File[Project2PCB-RoundHoles.TXT]
+   Generated File[Project2PCB-SlotHoles.TXT]
+   Generated File[Project2PCB.LDP]
+   Generated File[Project2PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 09:06:02 On 31/10/2023
